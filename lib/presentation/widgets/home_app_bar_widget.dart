@@ -1,4 +1,4 @@
-import 'package:finance/widgets/home_app_bar_icon_widget.dart';
+import 'package:finance/presentation/widgets/home_app_bar_icon_widget.dart';
 import 'package:flutter/material.dart';
 
 class HomeAppBarWidget extends StatelessWidget implements PreferredSizeWidget {

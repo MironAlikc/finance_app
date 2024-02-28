@@ -1,7 +1,7 @@
-import 'package:finance/screens/Income_screen.dart';
-import 'package:finance/screens/expenses_screen.dart';
-import 'package:finance/widgets/custom_bottom_navigation_bar_widget.dart';
-import 'package:finance/widgets/home_app_bar_widget.dart';
+import 'package:finance/presentation/screens/Income_screen.dart';
+import 'package:finance/presentation/screens/expenses_screen.dart';
+import 'package:finance/presentation/widgets/custom_bottom_navigation_bar_widget.dart';
+import 'package:finance/presentation/widgets/home_app_bar_widget.dart';
 import 'package:flutter/material.dart';
 
 class HomeScreen extends StatefulWidget {

@@ -1,5 +1,5 @@
-import 'package:finance/models/category_model.dart';
-import 'package:finance/widgets/expenses_container_widget.dart';
+import 'package:finance/presentation/models/category_model.dart';
+import 'package:finance/presentation/widgets/expenses_container_widget.dart';
 import 'package:flutter/material.dart';
 
 class ExpensesScreen extends StatefulWidget {

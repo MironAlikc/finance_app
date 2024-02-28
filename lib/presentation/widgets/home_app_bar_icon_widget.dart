@@ -1,4 +1,4 @@
-import 'package:finance/screens/categories_screen.dart';
+import 'package:finance/presentation/screens/categories_screen.dart';
 import 'package:flutter/material.dart';
 
 class HomeAppBarIconWidget extends StatelessWidget {
